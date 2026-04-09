@@ -1,9 +1,9 @@
 | <img src="docs/logo.svg" width="128"> |
 | - |
 
-# [Course_Name], [BSc_MSc_PhD] Course @ [Your_University]
+# NoSQL Databases, MSc Course @ University of Insubria
 
-This repository contains my personal notes for the [Course_Name] course at the [Your_University], part of the [BSc_MSc_PhD] in [Faculty_Name].
+This repository contains my personal notes for the NoSQL Databases course at the University of Insubria, part of the MSc in Computer Science.
 
 ## Overview
 
@@ -17,7 +17,7 @@ You can download my personal notes using the link below. To create your own note
 
 ## Notes
 
-| <a href="https://raw.githubusercontent.com/<username>/<repo_name>/<branch>/dist/Notes.pdf"><img src="docs/cover.png" alt="cover" height="256"></a> |
+| <a href="https://raw.githubusercontent.com/robertovicario/uninsubria-NoSQL-Databases/main/dist/Notes.pdf"><img src="docs/cover.png" alt="cover" height="256"></a> |
 | - |
 
 ## Instructions
