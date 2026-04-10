@@ -1,9 +1,9 @@
 | <img src="docs/logo.svg" width="128"> |
 | - |
 
-# NoSQL Databases, MSc Course @ University of Insubria
+# Database Technologies for Big Data, MSc Course @ University of Insubria
 
-This repository contains my personal notes for the NoSQL Databases course at the University of Insubria, part of the MSc in Computer Science.
+This repository contains my personal notes for the Database Technologies for Big Data course at the University of Insubria, part of the MSc in Computer Science.
 
 ## Overview
 
@@ -17,7 +17,7 @@ You can download my personal notes using the link below. To create your own note
 
 ## Notes
 
-| <a href="https://raw.githubusercontent.com/robertovicario/uninsubria-NoSQL-Databases/main/dist/Notes.pdf"><img src="docs/cover.png" alt="cover" height="256"></a> |
+| <a href="https://raw.githubusercontent.com/robertovicario/uninsubria-Database-Technologies-for-Big-Data/main/dist/Notes.pdf"><img src="docs/cover.png" alt="cover" height="256"></a> |
 | - |
 
 ## Instructions
